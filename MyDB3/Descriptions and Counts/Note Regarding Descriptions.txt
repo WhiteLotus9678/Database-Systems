@@ -1,0 +1,2 @@
+Some of the variable types and lengths changed for employee, customer and item because I was not
+anticipating having to record 1000 tuples.
